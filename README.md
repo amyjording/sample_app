@@ -6,8 +6,8 @@ Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
 Last spot:
-13.4.2 Image validation
-https://www.railstutorial.org/book/user_microposts#sec-image_validation
+14.19 Partial follow/unfollow form
+https://www.railstutorial.org/book/following_users#code-follow_form_partial
 
 ## License
 
